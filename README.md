@@ -13,7 +13,7 @@
 
 6-  make
 
-7-  ./bin/track "<Entrée caméra*> <Type de traitement**> <Bool Reco des visages***> <System****>"
+7-  ./bin/track (Entrée caméra*) (Type de traitement**) (Bool Reco des visages***) (System****)
 
 *: choisissez par la suite
 laquelle vous voulez.
