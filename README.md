@@ -1,5 +1,7 @@
 # Projet_Sp-_EyePliance
 
+Vous devez avoir OpenCV 2.4.13 installé
+
 1-  Décompresser projet_spe_EyePliance.tar.gz
 
 2-  Lire le README.md dans ./bd
