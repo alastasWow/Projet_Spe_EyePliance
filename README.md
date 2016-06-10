@@ -1,5 +1,4 @@
 # Projet_Sp-_EyePliance
-0-  Décompresser Projet_Sp-_EyePliance-master.zip
 
 1-  Décompresser projet_spe_EyePliance.tar.gz
 
