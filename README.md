@@ -13,7 +13,7 @@
 
 6-  make
 
-7-  ./bin/track <Entrée caméra\*> <Type de traitement\*\*> <Bool Reco des visages\*\*\*> <System\*\*\*\*>
+7-  ./bin/track \<Entrée caméra\*\> <Type de traitement\*\*> <Bool Reco des visages\*\*\*> <System\*\*\*\*>
 
 \*: Correspond au numéro de votre caméra, pour connaitre le numéro des caméras connectées à votre machine il existe la commande: "ls /dev/video\*" ceci listera toutes les caméras connectées.
 
