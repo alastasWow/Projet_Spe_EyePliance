@@ -1,19 +1,21 @@
 # Projet_Sp-_EyePliance
-0-  Décompresser projet_spe_EyePliance.tar.gz
+0-  Décompresser Projet_Sp-_EyePliance-master.zip
 
-1-  Lire le README.md dans ./bd
+1-  Décompresser projet_spe_EyePliance.tar.gz
 
-2-  Se placer dans projetSpe
+2-  Lire le README.md dans ./bd
 
-3-  mkdir build
+3-  Se placer dans projetSpe
 
-4-  cd build
+4-  mkdir build
 
-5-  cmake ../
+5-  cd build
 
-6-  make
+6-  cmake ../
 
-7-  ./bin/track \<Entrée caméra\*\> \<Type de traitement\*\*\> \<Bool Reco des visages\*\*\*\> \<System\*\*\*\*\>
+7-  make
+
+8-  ./bin/track \<Entrée caméra\*\> \<Type de traitement\*\*\> \<Bool Reco des visages\*\*\*\> \<System\*\*\*\*\>
 
 \*: Correspond au numéro de votre caméra, pour connaitre le numéro des caméras connectées à votre machine il existe la commande: "ls /dev/video\*" ceci listera toutes les caméras connectées.
 
