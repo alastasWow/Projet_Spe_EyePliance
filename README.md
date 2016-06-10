@@ -15,7 +15,7 @@
 
 7-  ./bin/track <Entrée caméra*> <Type de traitement**> <Bool Reco des visages***> <System****>
 
-* :Pour connaitre le numéro des caméras connectées à votre machine faites : "ls /dev/video*" ceci listera toutes les caméras vous choisissez par la suite
+*: choisissez par la suite
 laquelle vous voulez.
 
 ** :Il y a deux traitement possible soit : "webcam" soit "IR".
