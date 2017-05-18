@@ -1,5 +1,7 @@
 # Projet_Sp-_EyePliance
-0-  Lire le README.md dans ./bd\n
+0-  Lire le README.md dans ./bd
+
+
 1-  Se placer dans projetSpe
 2-  mkdir build
 3-  cd build
