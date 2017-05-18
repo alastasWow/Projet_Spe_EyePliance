@@ -1,16 +1,19 @@
 # Projet_Sp-_EyePliance
 0-  Lire le README.md dans ./bd
 
-
 1-  Se placer dans projetSpe
+
 2-  mkdir build
+
 3-  cd build
+
 4-  cmake ../
+
 5-  make
+
 6-  ./bin/track <Entrée caméra*> <Type de traitement**> <Bool Reco des visages***> <System****>
 
-*:Pour connaitre le numéro des caméras connectées à votre machine faites : ls /dev/video* ceci listera toutes les caméras vous choisissez par la suite
-laquelle vous voulez.
+*:Pour connaitre le numéro des caméras connectées à votre machine faites : ls /dev/video* ceci listera toutes les caméras vous choisissez par la suite laquelle vous voulez.
 
 **:Il y a deux traitement possible soit : "webcam" soit "IR".
 
