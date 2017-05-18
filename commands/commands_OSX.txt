@@ -1,0 +1,13 @@
+Jarvis=play ../sound_effects/introduction.wav
+play=../itunes play
+pause=../itunes pause
+next=../itunes next
+previous=../itunes prev
+stop=../itunes stop
+quit=../itunes quit
+volume up=../itunes vol up
+volume down=../itunes vol down
+mute=../itunes mute
+unmute=../itunes unmute
+Google X =open -a safari http://www.google.com/search?q=
+Google=open -a safari http://google.com

@@ -1,0 +1,5 @@
+Jarvis=play ../sound_effects/introduction.wav
+YouTube X =firefox youtube.com/results?search_query=
+YouTube=firefox youtube.com
+Google X =firefox http://www.google.com/search?q=
+Google=firefox google.com

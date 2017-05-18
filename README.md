@@ -1,27 +1,17 @@
 # Projet_Sp-_EyePliance
+0-  Lire le README.md dans ./bd
+1-  Se placer dans projetSpe
+2-  mkdir build
+3-  cd build
+4-  cmake ../
+5-  make
+6-  ./bin/track <Entrée caméra*> <Type de traitement**> <Bool Reco des visages***> <System****>
 
-Vous devez avoir OpenCV 2.4.13 installé
+*:Pour connaitre le numéro des caméras connectées à votre machine faites : ls /dev/video* ceci listera toutes les caméras vous choisissez par la suite
+laquelle vous voulez.
 
-1-  Décompresser projet_spe_EyePliance.tar.gz
+**:Il y a deux traitement possible soit : "webcam" soit "IR".
 
-2-  Lire le README.md dans ./bd
+***:Si vous voulez activer la reconnaissance des visages mettez 1 sinon 0.
 
-3-  Se placer dans projetSpe
-
-4-  mkdir build
-
-5-  cd build
-
-6-  cmake ../
-
-7-  make
-
-8-  ./bin/track \<Entrée caméra\*\> \<Type de traitement\*\*\> \<Bool Reco des visages\*\*\*\> \<System\*\*\*\*\>
-
-\*: Correspond au numéro de votre caméra, pour connaitre le numéro des caméras connectées à votre machine il existe la commande: "ls /dev/video\*" ceci listera toutes les caméras connectées.
-
-\*\* :Il y a deux traitement possible soit : "webcam" soit "IR".
-
-\*\*\* :Si vous voulez activer la reconnaissance des visages mettez 1 sinon 0.
-
-\*\*\*\* :Il exsite dans le dossier commands deux types de fichier un pour les systèmes Linux et l'autre pour OSX, cet argument prend soit "Linux" ou bien "OSX".
+****:Il exsite dans le dossier commands deux types de fichier un pour les systèmes Linux et l'autre pour OSX, cet argument prend soit "Linux" ou bien "OSX".
